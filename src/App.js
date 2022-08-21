@@ -96,7 +96,7 @@ function App() {
 										<i className="fas fa-plus fa-3x"></i>
 									</div>
 								</div>
-								<img className="img-fluid" src="img/mips.png" alt="Mips instructions image" />
+								<img className="img-fluid" src="img/mips.png" alt="Mips instructions" />
 							</div>
 						</div>
 						{/* Portfolio Item 2 */}
@@ -107,7 +107,7 @@ function App() {
 										<i className="fas fa-plus fa-3x"></i>
 									</div>
 								</div>
-								<img className="img-fluid" src="img/debatr-logo.png" alt="Debatr image" />
+								<img className="img-fluid" src="img/debatr-logo.png" alt="Debatr" />
 							</div>
 						</div>
 					</div>
@@ -207,7 +207,7 @@ function App() {
 										</div>
 										{/* Portfolio Modal - Image */}
 										<a href="https://converter-mips.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-											<img className="img-fluid rounded mb-5" src="img/mips-converter.PNG" alt="Image about my mips converter website" />
+											<img className="img-fluid rounded mb-5" src="img/mips-converter.PNG" alt="Mips converter website" />
 										</a>
 
 										{/* Portfolio Modal - Text */}
@@ -264,7 +264,7 @@ function App() {
 										</div>
 										{/* Portfolio Modal - Image */}
 										<a href="https://www.debatr.us/" target="_blank" rel="noopener noreferrer">
-											<img className="img-fluid rounded mb-5" src="img/debatr-site.png" alt="Image about Debatr" />
+											<img className="img-fluid rounded mb-5" src="img/debatr-site.png" alt="Debatr website" />
 										</a>
 
 										{/* Portfolio Modal - Text */}
